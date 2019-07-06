@@ -1,0 +1,2 @@
+# pythonSpiderVisual
+一个自动识别登陆验证码，并登陆网站的python脚本，需要自己的用户名和密码
